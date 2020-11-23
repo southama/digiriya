@@ -4,12 +4,12 @@
 Today, having a website means customers are always able to find you – anytime, anywhere. Even outside of business hours, your website continues to find and secure new customers. It offers the user convenience as they can access the information they need in the comfort of their own home, with no added pressure to buy. Plus, as most companies nowadays have their own website, there’s every chance you could be losing customers to your competitors by staying offline
 
 
-1. Cost-Effective
-As well as simply displaying information, you can also use your website to sell goods & services directly to consumers, in some cases removing the need to use “brick-and-mortar” stores which involve large operating costs (staff wages, rental, utilities to name just a few). Eliminating these overheads will also allow you to lower your prices, giving your business that real competitive edge. It can also be used internally within your business; do you have any news you want to share with colleagues or have any important information that can be accessed by management? Having an internal website can save you a lot of time as everything you need is one place and can be accessed at any time
+<h2>1. Cost-Effective</h2>
+<p>As well as simply displaying information, you can also use your website to sell goods & services directly to consumers, in some cases removing the need to use “brick-and-mortar” stores which involve large operating costs (staff wages, rental, utilities to name just a few). Eliminating these overheads will also allow you to lower your prices, giving your business that real competitive edge. It can also be used internally within your business; do you have any news you want to share with colleagues or have any important information that can be accessed by management? Having an internal website can save you a lot of time as everything you need is one place and can be accessed at any time</P>
 
-2. Wider Demographic Reach
-Unlike having a local brick and mortar establishment, a business Website transmits your business profile around the world, permitting for enhanced exposure and sales, due to a wider demographic reach.
-3. Business Credibility
+<h2>2. Wider Demographic Reach</h2>
+<p>Unlike having a local brick and mortar establishment, a business Website transmits your business profile around the world, permitting for enhanced exposure and sales, due to a wider demographic reach.</P>
+<h2>3. Business Credibility</h2>
 If you have a professional looking and user-friendly Website, consumers will likely have a greater chance of considering your business credible over companies who either do not have a Web presence, or have a poor Website presence.
 4. Around-The-Clock Availability
 Having a Website provides your consumers with around-the-clock availability in terms of access to products, information etc. This type of 24 hours a day, seven days a week service definitely generates more profits than that of a traditional storefront.
