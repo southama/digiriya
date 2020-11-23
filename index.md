@@ -1,5 +1,5 @@
 
-Top 10 benefits of having a Business Website:
+<h1> Top 10 benefits of having a Business Website</h1>
 
 Today, having a website means customers are always able to find you – anytime, anywhere. Even outside of business hours, your website continues to find and secure new customers. It offers the user convenience as they can access the information they need in the comfort of their own home, with no added pressure to buy. Plus, as most companies nowadays have their own website, there’s every chance you could be losing customers to your competitors by staying offline
 
