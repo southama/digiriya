@@ -25,3 +25,5 @@ Chances are your competitors have a Website and they’re using it to their full
 Consumer communication via your Website can help you build your customer base. Populating a list of consumer contacts is gold to any company.
 <h2>10. Growth Opportunity</h2>
 Websites, in general, are great ways to in providing a place that potential investors can be referred to. It shows what your company is about, what it has achieved and what it can achieve in the future.
+
+[About US] {about.md}
